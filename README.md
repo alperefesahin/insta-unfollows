@@ -22,5 +22,3 @@ To use this script, follow these steps:
 ## Disclaimer
 
 Using this script may have implications on your Instagram account, so please use it at your own risk.
-
- people who unfollowed you
